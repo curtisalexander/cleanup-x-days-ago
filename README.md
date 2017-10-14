@@ -1,6 +1,6 @@
-# file-cleanup-days-ago
+# cleanup-x-days-ago
 
-If have a directory with files of the form `filename - yyyy-mm-dd`, delete files older than 3 days.
+If have a directory with files of the form `filename - yyyy-mm-dd`, delete files older than `3` days.
 
 ### Requirements
 
